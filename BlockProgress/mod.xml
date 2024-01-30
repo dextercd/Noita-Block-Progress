@@ -1,0 +1,5 @@
+<Mod
+    name="Block Progress"
+    description="Block most Noita progress and unlocks"
+    request_no_api_restrictions="0"
+    />
